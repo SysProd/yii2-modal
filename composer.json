@@ -1,0 +1,22 @@
+{
+    "name": "SysProd/yii2-modal",
+    "description": "modal widget for yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","modal","widget"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SysProd Igor",
+            "email": "sys.prod@yahoo.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "kartik-v/yii2-icons": "@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "SysProd\\modal\\": ""
+        }
+    }
+}
